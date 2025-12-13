@@ -14,7 +14,7 @@ Nuestros desafíos técnicos (Challenges) están diseñados para filtrar seniors
 | :--- | :--- | :--- |
 | **🐍 Python** | `FastAPI`, `Architecture`, `Async/Await` | 🟢 Active |
 | **🤖 AI Eng** | `RAG Systems`, `LangChain`, `Vector DBs` | 🟢 Active |
-| **🏢 SAP** | `ABAP OO`, `S/4HANA`, `Clean Code` | 🟡 Beta |
+| **🏢 SAP** | `ABAP OO`, `S/4HANA`, `Clean Code` | 🟢 Active |
 
 ---
 
