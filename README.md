@@ -1,42 +1,55 @@
-# > PureStack_Audit_Protocol_v2.0
+# ⚡ PureStack Engineering Protocol v2.0
 
-### Engineering Selection | Validated by Code
+![System Status](https://img.shields.io/badge/System-ONLINE-success?style=for-the-badge)
+![Auditor](https://img.shields.io/badge/Automated_Audit-ACTIVE-blueviolet?style=for-the-badge)
+![Validation](https://img.shields.io/badge/Certification-GOLD_MASTER-f39c12?style=for-the-badge)
 
-**PureStack is not a recruiting agency.** We are a Technical Validation Utility for the High-End market.
+### 🛡️ Technical Validation Utility
+**PureStack is not a recruiting agency.** We are a High-Performance Validation Protocol.
 We filter out the noise by auditing engineers through asynchronous, real-world coding challenges. We guarantee that the talent presented is "Plug & Play".
 
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+
 ---
 
-### 🛠️ The Audit Protocol (Active Challenges)
-Our challenges are designed to differentiate real Seniors from Juniors with luck.
-Select your specialization and prove your worth.
+### 🧬 The Automated Gatekeeper
+Unlike standard take-home assignments, our repositories are equipped with a **CI/CD Quality Gate (`audit.yml`)**.
+When you submit your Pull Request, our system will automatically scan for:
+* ❌ **Anti-Patterns:** (e.g., `System.out.println`, `time.sleep`, `any` types).
+* ❌ **Security Risks:** (e.g., Hardcoded credentials, SQL Injection vulnerabilities).
+* ❌ **Architecture Violations:** (e.g., Spaghetti code, missing DTOs).
 
-| Domain | Repository | Tech Stack & Focus |
+**If the Gatekeeper fails, your submission is rejected immediately.**
+
+---
+
+### 🛠️ Active Protocols (Select your Specialization)
+
+Choose the repository that matches your expertise. Each challenge has 3 difficulty levels (**Bronze**, **Silver**, **Gold**).
+
+| Domain | Stack | Challenge Scope & Focus |
 | :--- | :--- | :--- |
-| **Backend** | `challenge-python-backend` | **Python (FastAPI)**, Async, Docker, High-Load Arch. |
-| **Backend** | `challenge-java-springboot` | **Java (Spring Boot)**, ACID Transactions, Concurrency. |
-| **Backend** | `challenge-dotnet-logistics` | **.NET 8 (Core)**, Clean Arch, EF Core, LINQ. |
-| **Frontend** | `challenge-frontend-react` | **React + TS**, Performance, State Mgmt, Virtualization. |
-| **AI / ML** | `challenge-ai-rag` | **RAG Systems**, Vector DBs, LangChain/LlamaIndex. |
-| **Data** | `challenge-data-engineering` | **Python (ETL)**, Pandas/Polars, Data Quality, SQL. |
-| **Cloud** | `challenge-cloud-terraform` | **Terraform (AWS)**, IaC, Security, Modularization. |
-| **QA / SDET** | `challenge-qa-automation` | **Playwright (TS)**, Page Object Model, Robustness. |
-| **Security** | `challenge-cyber-blue-team` | **Python Scripting**, Log Analysis, Digital Forensics. |
-| **SAP** | `challenge-sap-abap-oo` | **Modern ABAP (7.50+)**, OO Design, Unit Testing. |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-FastAPI-blue) | **Async Microservice:** Clean Arch, Docker, High-Load. |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-Spring_Boot-red) | **Fintech Core:** ACID Transactions, Concurrency & Locking. |
+| **Backend** | ![.NET](https://img.shields.io/badge/.NET-8-purple) | **Logistics API:** EF Core, LINQ, Async/Await fixes. |
+| **Frontend** | ![React](https://img.shields.io/badge/React-TypeScript-blue) | **Crypto Dashboard:** Performance, Virtualization, Custom Hooks. |
+| **Cloud** | ![Terraform](https://img.shields.io/badge/AWS-Terraform-yellow) | **SecOps Audit:** Fixing insecure Buckets & Security Groups (PaC). |
+| **Data** | ![Python](https://img.shields.io/badge/Data-Engineering-green) | **ETL Pipeline:** Pandas/Polars, Data Quality, Logging standards. |
+| **Security** | ![Security](https://img.shields.io/badge/Cyber-Blue_Team-orange) | **Digital Forensics:** Log Parsing, Threat Detection (No Pandas). |
+| **QA / SDET** | ![Playwright](https://img.shields.io/badge/TS-Playwright-important) | **E-Commerce Auto:** Page Object Model (POM), Flakiness handling. |
+| **AI / ML** | ![AI](https://img.shields.io/badge/AI-RAG_LLM-lightgrey) | **Vector Search:** LangChain, Embeddings, Context Retrieval. |
+| **Enterprise**| ![SAP](https://img.shields.io/badge/SAP-ABAP-blue) | **Legacy Refactor:** Modern ABAP (7.50+), OO Patterns. |
 
 ---
 
-### 🛡️ How to Earn the PureStack Badge
+### 🚦 How to Execute the Protocol
 
-We only work with engineers who demonstrate their capability.
-**Choose your difficulty level (Level 1, 2, or 3) inside each challenge.**
-
-1.  **Fork** the repository matching your stack.
-2.  **Solve** the engineering problem proposed (No whiteboards, just code).
-3.  **Pass** the automated audits (GitHub Actions) + Our manual review.
-4.  **Receive** your Digital Validation Badge and access to top-tier offers.
-
-> *"Talk is cheap. Show me the code."* - Linus Torvalds
+1.  **Fork** the repository of your chosen domain.
+2.  **Read the README** carefully. Pay attention to the **"Strict Rules"** section.
+3.  **Code** your solution. Treat it like Production code.
+4.  **Open a Pull Request**. Watch the Actions tab.
+    * 🔴 **Red:** The Auditor caught an error. Fix it.
+    * 🟢 **Green:** You passed the automated filter. Human review begins.
 
 ---
-[🌐 Website](https://purestack.es) | [💼 LinkedIn](https://www.linkedin.com/company/purestack-engineering/)
+[🌐 PureStack Website](https://purestack.es) | [💼 LinkedIn](https://www.linkedin.com/company/purestack-engineering/)
